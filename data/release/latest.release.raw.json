@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2349618,
       "digest": "sha256:25a2de25b683770b2496650717addb39ffed09391039f514d3ecf7704dd9ceed",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-07-07T10:21:10Z",
       "updated_at": "2026-07-07T10:21:11Z",
       "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.7.1/otree-x86_64-pc-windows-msvc.zip"
