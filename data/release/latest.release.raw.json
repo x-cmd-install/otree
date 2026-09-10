@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2496214,
       "digest": "sha256:a46dd82f81df6dc7bf321e52b804d42ae6027824acfb83a142c17be4a73ac7fc",
-      "download_count": 209,
+      "download_count": 210,
       "created_at": "2026-07-07T10:20:06Z",
       "updated_at": "2026-07-07T10:20:07Z",
       "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.7.1/otree-x86_64-unknown-linux-musl.tar.gz"
