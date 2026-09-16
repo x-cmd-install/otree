@@ -47,12 +47,12 @@ Total: **7,310** lines of code across **88** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 0 | 1 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 2 | 5 | 1 | 0 | 0 | 0 |
-| last180d | 2026-03-19 | 2 | 7 | 1 | 1 | 0 | 0 |
-| 360d | 2025-09-20 | 6 | 17 | 1 | 5 | 0 | 0 |
-| last720d | 2024-09-25 | 15 | 43 | 1 | 13 | 2 | 75 |
+| 30d | 2026-08-17 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 90d | 2026-06-18 | 2 | 5 | 1 | 0 | 0 | 11 |
+| last180d | 2026-03-20 | 2 | 7 | 1 | 1 | 0 | 13 |
+| 360d | 2025-09-21 | 6 | 17 | 1 | 5 | 0 | 26 |
+| last720d | 2024-09-26 | 15 | 43 | 1 | 13 | 2 | 75 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for otree lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:55:09Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:36:11Z._
